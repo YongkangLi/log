@@ -9,7 +9,6 @@ Personal Daily Log
 5. Network lab finally ended!!
 6. Oops, prepare for the test on Saturday, only 2 days left. Pray for myself.
 
-
 ## Day 2 - 2020. 10. 23
 1. Tested the pagetable of [xv6-k210](https://github.com/SKTT1Ryze/xv6-k210) on Maix Bit (k210).
 2. Learned how to commit a pr and collaborate on github (hhh).
@@ -23,3 +22,8 @@ Personal Daily Log
 3. Configured hadoop developing environment on Windows. THANKS to many of my classmates and friends.
 4. My first java project, such a regret.
 5. Apprecaite my ... (how to say) maybe godder ??? (LOL)
+
+## Day 4 - 2020. 10. 25
+1. Meet one of my firends in the morning. An idle relexation.
+2. Debug the MapReduce Job on HDFS.
+3. xv6: Process Management.
