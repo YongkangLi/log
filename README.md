@@ -27,3 +27,9 @@ Personal Daily Log
 1. Meet one of my firends in the morning. An idle relexation.
 2. Debug the MapReduce Job on HDFS.
 3. xv6: Process Management.
+
+## Day 5 - 2020. 10. 26
+1. Algorithm: a tricky matching problem (under some certain Circumstances, greedy strategy is much easier and more effective than dynamic programming, LOL).
+2. Tried to run a simple process on xv6-k210, but failed. The problem is that I didn't quiet figure out the details of the procedure after ```procinit```. So I had no idea what happened and where the bug lies.
+3. Thinking about the difference between kernel and user process. I wonder whether kernel is just a normal process running under M mode and direct mapped pagetable. Another confusion is that whether kernel is continuously running on CPU. If so, how does a computer with single core run kernel. If not, how does kernel work. etc...
+4. Searched for the answer for above questions, which is still confounding me. Maybe I need to read more related material to make it clear.
