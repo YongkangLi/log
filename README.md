@@ -33,3 +33,10 @@ Personal Daily Log
 2. Tried to run a simple process on xv6-k210, but failed. The problem is that I didn't quiet figure out the details of the procedure after ```procinit```. So I had no idea what happened and where the bug lies.
 3. Thinking about the difference between kernel and user process. I wonder whether kernel is just a normal process running under M mode and direct mapped pagetable. Another confusion is that whether kernel is continuously running on CPU. If so, how does a computer with single core run kernel. If not, how does kernel work. etc...
 4. Searched for the answer for above questions, which is still confounding me. Maybe I need to read more related material to make it clear.
+
+## Day 6 - 2020. 10. 27
+1. Operating System: to transplant xv6 on k210 better, I learned several basic scheduling machineries, such as FIFO, Shortest Time First, Mutil-Level Preference and time-slice, etc.
+2. xv6: understood system calls, exception and interrupt more profoundly. More insight to its implementation.
+3. Read xv6 source code to figure out how to implement process management. A little bit confusing. So I will continue reading tomorrow.
+4. Debugging MapReduce desperately.
+ 
