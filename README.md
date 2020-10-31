@@ -44,3 +44,8 @@ Personal Daily Log
  1. CPT Lab finally ended!
  2. Last lecture of a course professed by one of my faverite professors. A little bit upset. Begin reviewing next Monday!!!
  3. Wasted time on mapreduce once again, such a sad story.
+
+## Day 8 - 2020. 10. 29
+1. Algorithm: further insight into Network Flow, its application and some collaries.
+2. Virtualization on RISC-V: presentations given by several Graduate. Learned more about gem5, xvisor and SBI.
+3. Started CPU Lab, finished one third.
