@@ -6,7 +6,7 @@ Personal Daily Log
 2. A little bit forward push on xv6: pagetables and virtual memory management.
 3. Modern Operating System: process and thread management.
 4. Algorithm: Network Flow.
-5. Network lab finally ended!!
+5. Rdt lab finally ended!!
 6. Oops, prepare for the test on Saturday, only 2 days left. Pray for myself.
 
 ## Day 2 - 2020. 10. 23
@@ -40,3 +40,7 @@ Personal Daily Log
 3. Read xv6 source code to figure out how to implement process management. A little bit confusing. So I will continue reading tomorrow.
 4. Debugging MapReduce desperately.
  
+ ## Day 7 - 2020. 10. 28
+ 1. CPT Lab finally ended!
+ 2. Last lecture of a course professed by one of my faverite professors. A little bit upset. Begin reviewing next Monday!!!
+ 3. Wasted time on mapreduce once again, such a sad story.
