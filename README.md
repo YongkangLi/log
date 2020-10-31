@@ -41,11 +41,17 @@ Personal Daily Log
 4. Debugging MapReduce desperately.
  
  ## Day 7 - 2020. 10. 28
- 1. CPT Lab finally ended!
+ 1. CPT Lab finally ended, such a relief!
  2. Last lecture of a course professed by one of my faverite professors. A little bit upset. Begin reviewing next Monday!!!
  3. Wasted time on mapreduce once again, such a sad story.
 
 ## Day 8 - 2020. 10. 29
 1. Algorithm: further insight into Network Flow, its application and some collaries.
 2. Virtualization on RISC-V: presentations given by several Graduate. Learned more about gem5, xvisor and SBI.
-3. Started CPU Lab, finished one third.
+3. Started CPU Lab, finished one third (3 Level Time Sequence).
+
+## Day 9 - 2020. 10. 30
+1. Last Lecture of Numerical Analysis. Have to start another plan for reviewing.
+2. OS Lecture: general tasks done by memory management, vitual address and virtual address space.
+3. CPU Lab, another half done (Modern Time Sequence).
+4. Big Data Processing: MapReduce and Merkle Tree. Completely OVER!!!
