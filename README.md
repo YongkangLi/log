@@ -55,3 +55,8 @@ Personal Daily Log
 2. OS Lecture: general tasks done by memory management, vitual address and virtual address space.
 3. CPU Lab, another half done (Modern Time Sequence).
 4. Big Data Processing: MapReduce and Merkle Tree. Completely OVER!!!
+
+## Day 10 - 2020. 10. 31
+1. Finished last part of CPU Lab - Interrupt!!!
+2. OS Lab: mutual-exclusion and synchronization between multi-threads and multi-processes.
+3. Had dinner with my parents. My last dinner with them was on National Day, which is nearly a month ago. Shame on Me.
