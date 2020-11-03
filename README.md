@@ -64,3 +64,7 @@ Personal Daily Log
 ## Day 11 - 2020. 11. 01
 1. Finished OS Lab - process, thread and file system. Nothing much.
 
+## Day 12 - 2020. 11. 02
+1. OS: Had a more profound understanding of programming. Sometimes we do not just do something right, but we also need to do it in a better way. In terms of computer science, we want it faster, more efficient and to consume less resource. End point is hard to reach.
+2. Algo: realized kruskal and union set. I can't believe that algorithm is so powerful. Some problems seem to be extremely hard to solve. However, part of these problems can be solved in very amazing algorithm and pretty succinct code. 
+
