@@ -40,10 +40,10 @@ Personal Daily Log
 3. Read xv6 source code to figure out how to implement process management. A little bit confusing. So I will continue reading tomorrow.
 4. Debugging MapReduce desperately.
  
- ## Day 7 - 2020. 10. 28
- 1. CPT Lab finally ended, such a relief!
- 2. Last lecture of a course professed by one of my faverite professors. A little bit upset. Begin reviewing next Monday!!!
- 3. Wasted time on mapreduce once again, such a sad story.
+## Day 7 - 2020. 10. 28
+1. CPT Lab finally ended, such a relief!
+2. Last lecture of a course professed by one of my faverite professors. A little bit upset. Begin reviewing next Monday!!!
+3. Wasted time on mapreduce once again, such a sad story.
 
 ## Day 8 - 2020. 10. 29
 1. Algorithm: further insight into Network Flow, its application and some collaries.
@@ -60,3 +60,7 @@ Personal Daily Log
 1. Finished last part of CPU Lab - Interrupt!!!
 2. OS Lab: mutual-exclusion and synchronization between multi-threads and multi-processes.
 3. Had dinner with my parents. My last dinner with them was on National Day, which is nearly a month ago. Shame on Me.
+
+## Day 11 - 2020. 11. 01
+1. Finished OS Lab - process, thread and file system. Nothing much.
+
